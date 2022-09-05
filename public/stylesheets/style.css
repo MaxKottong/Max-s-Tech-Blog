@@ -11,7 +11,7 @@ body, html {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: none !important;
     color: #225ca3;
     font-weight: bold;
     transition: color .1s;
@@ -144,7 +144,7 @@ main {
 }
 
     .comment:nth-child(odd) {
-        background-color: #fff5eb;
+        background-color: #D8D6D3;
     }
 
     .comment .meta {
