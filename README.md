@@ -6,6 +6,11 @@ This app was built as a way to gather news on recent Tech developments. Users ca
 ## Install
 Please fork the repository then use `npm i` to install dependencies.
 
+## Built With
+* Node
+* MySQL
+* Express
+
 ## Links
 [Heroku](http://lit-refuge-35557.herokuapp.com/)
 ![Finished Site](./public/images/finished-site.png)
