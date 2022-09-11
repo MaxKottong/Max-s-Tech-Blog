@@ -8,3 +8,4 @@ Please fork the repository then use `npm i` to install dependencies.
 
 ## Links
 [Heroku](http://lit-refuge-35557.herokuapp.com/)
+![Finished Site](./public/images/finished-site.png)
